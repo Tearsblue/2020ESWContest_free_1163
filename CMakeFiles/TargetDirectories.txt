@@ -1,0 +1,3 @@
+/home/pi/coding/opencv/colordetect/CMakeFiles/rebuild_cache.dir
+/home/pi/coding/opencv/colordetect/CMakeFiles/test.out.dir
+/home/pi/coding/opencv/colordetect/CMakeFiles/edit_cache.dir

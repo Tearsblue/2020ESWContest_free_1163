@@ -1,0 +1,13 @@
+find mat.
+
+scalar
+
+
+mat()
+cvtcolor()
+.at<Vec3b>
+
+erode()
+dilate()
+imshow
+rectangle
